@@ -1,4 +1,7 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Sep 26 23:51:51 CST 2017
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 27 00:02:23 CST 2017
 ezmind-util-1.0.0-SNAPSHOT.pom>liuwel=
 ezmind-util-1.0.0-SNAPSHOT.jar>liuwel=
+ezmind-util-1.0.0-SNAPSHOT.jar>=
+ezmind-util-1.0.0-SNAPSHOT-sources.jar>=
+ezmind-util-1.0.0-SNAPSHOT.pom>=
