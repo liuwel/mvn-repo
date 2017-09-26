@@ -1,5 +1,3 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Sep 26 22:57:30 CST 2017
-ezmind-web-parent-1.0.0.jar>=
-ezmind-web-parent-1.0.0-sources.jar>=
-ezmind-web-parent-1.0.0.pom>=
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Sep 26 23:51:47 CST 2017
+ezmind-web-parent-1.0.0.pom>liuwel=
